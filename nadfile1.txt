@@ -1,7 +1,7 @@
 creer repository dans Github
-dans documents , creer  le dossier en local
-ouvrir dans VS le dossier creer a l'etape 2 et ajouter un sous fichier en .txt , puis sauvegarder
-lancer dan le terminal la commande git init
+sur le PC,dans document , creer  le dossier en local
+ouvrir dans VS le dossier crée a l'etape 2 et ajouter un sous fichier en .txt , puis sauvegarder
+lancer dans le terminal la commande git init
 copier les 3 lignes de commandes push de Github vers VS pour lier le local et le distant
 ajouter du contenu dans le fichier txt
 lancer dans le terminal les commandes git add "nomdufichier.txt" , git commit -m "libelle de la version" , git push pour le charger sur Github
