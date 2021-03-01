@@ -1,3 +1,9 @@
+recap de la journee
+rencontre avec la promo 
+zoom sur le diplome et les competences a acquerir
+
+
+decouverte de Github
 creer repository dans Github
 sur le PC,dans document , creer  le dossier en local
 ouvrir dans VS le dossier crée a l'etape 2 et ajouter un sous fichier en .txt , puis sauvegarder
