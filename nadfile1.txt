@@ -5,4 +5,4 @@ lancer dans le terminal la commande git init
 copier les 3 lignes de commandes push de Github vers VS pour lier le local et le distant
 ajouter du contenu dans le fichier txt
 lancer dans le terminal les commandes git add "nomdufichier.txt" , git commit -m "libelle de la version" , git push pour le charger sur Github
-ensuite apres avoir renseigner un commentaire dans le fichier txt, ne pas oublier de sauvegarfer avant de lancer les commandes git add, commit -m et push
+ensuite apres avoir renseigné de nouveaux commentaires dans le fichier txt, ne pas oublier de sauvegarder dans VS Code avant de relancer les commandes git add, commit -m et push
