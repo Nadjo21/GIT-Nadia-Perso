@@ -12,3 +12,9 @@ copier les 3 lignes de commandes push de Github vers VS pour lier le local et le
 ajouter du contenu dans le fichier txt
 lancer dans le terminal les commandes git add "nomdufichier.txt" , git commit -m "libelle de la version" , git push pour le charger sur Github
 ensuite apres avoir renseigné de nouveaux commentaires dans le fichier txt, ne pas oublier de sauvegarder dans VS Code avant de relancer les commandes git add, commit -m et push
+
+Point au 09/03
+sujet abordés : en semaine 1, début semaine 2
+variables , conditions, boucles ( c'est pas gagné ! ),
+creation et utilisation des fonctions
+Creation, initialisation de tableaux 2D
