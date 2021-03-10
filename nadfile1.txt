@@ -15,6 +15,6 @@ ensuite apres avoir renseigné de nouveaux commentaires dans le fichier txt, ne 
 
 Point au 09/03
 sujet abordés : en semaine 1, début semaine 2
-variables , conditions, boucles ( c'est pas gagné ! ),
+variables , conditions, boucles 
 creation et utilisation des fonctions
 Creation, initialisation de tableaux 2D
